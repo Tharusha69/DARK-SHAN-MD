@@ -62,15 +62,9 @@
                        "translatte": "^3.0.1",
                        "util": "^0.12.4",           
                        "secktor-pack": "latest",
-                       "megajs": "^1.1.0",
-                       "Sachibot-Spotifydl": "github:SACHIBOT/Sachibot-Spotifydl#master"
                        "hirunews-scraper":"^3.0.0",
                        "hirunews-scrap":"^1.0.6",
                        "sirasa-news": "latest",
-                       "nima-threads-dl-api": "latest",
-                       "@sl-code-lords/movie-dl": "^1.0.2",
-                       "mfiredlcore-vihangayt": "latest",
-                       "chatgpt-scraper": "latest",
                        "sinhala-unicode": "2.0.0",
                        "systeminformation" : "^5.21.11",
                        "@blackamda/telegram-image-url": "latest",
@@ -85,14 +79,6 @@
                        "qrcode": "^1.5.0",
                        "qrcode-reader": "^1.0.4",
                        "qrcode-terminal": "^0.12.0",
-                       "emoji-api": "^1.0.2",
-                       "lowdb": "^2.1.0",
-                       "getscreenshot.js": "latest",
-                       "truecallerjs": "latest",
-                       "fouadwa-scraper": "latest",
-                       "wa_set_pkg":"1.0.1",
-                       "remove-bg-node":"1.0.3"
-                       "wa-sticker-formatter": "^4.3.2"
                       },
                   "directories": {
                        "lib": "lib",
